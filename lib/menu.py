@@ -10,3 +10,6 @@ class Menu:
     
     def view_menu(self):
         return self.menu
+    
+    def has_dish(self, dish):
+        return dish in self.menu.keys()
