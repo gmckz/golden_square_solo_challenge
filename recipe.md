@@ -156,6 +156,11 @@ When order has not been confirmed
 """
 
 """
+When order confirmed
+#grand_total returns grand total cost of order
+"""
+
+"""
 When order has been confirmed
 #view_receipt returns receipt with itemised list and grand total
 """
